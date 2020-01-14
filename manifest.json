@@ -1,0 +1,35 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "default_locale": "en",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icon/icon16.png",
+    "48": "icon/icon48.png",
+    "64": "icon/icon64.png",
+    "128": "icon/icon128.png"
+  },
+  
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "CoinTab"
+  },
+
+  "incognito": "split",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  
+  "background": {
+    "scripts": ["priceCheck.js","navigate.js"],
+    "persistent": false
+  },
+
+  "manifest_version": 2,
+
+  "permissions": [
+    "contextMenus","tabs",
+    "background", "storage", "notifications", "alarms",
+    "https://api.coinbase.com/v2/"
+  ]
+}

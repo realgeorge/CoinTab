@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "CoinTab"
+  },
+  "appDesc": {
+    "message": "CoinTab is an extension for Google Chrome that shows the current price of Bitcoin on every new tab."
+  }
+}

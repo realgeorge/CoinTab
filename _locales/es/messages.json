@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "CoinTab"
+  },
+  "appDesc": {
+    "message": "Muestra el precio del bitcoin en la toolbar de browser"
+  },
+  "tooltip_price_title": {
+    "message": "PreciCoinTab es una extensión para Google Chrome que muestra el precio actual de Bitcoin en cada pestaña nueva.o de Bitcoin"
+  }
+}

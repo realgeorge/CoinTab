@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "CoinTab",
+    "description": "CoinTab is an extension for Google Chrome that shows the current price of Bitcoin on every new tab."
+  },
+  "appDesc": {
+    "message": "Shows Bitcoin Price Index in a browser toolbar.",
+    "description": "CoinTab is an extension for Google Chrome that shows the current price of Bitcoin on every new tab."
+  }
+}

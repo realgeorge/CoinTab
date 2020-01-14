@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "CoinTab"
+  },
+  "appDesc": {
+    "message": "CoinTab是Google Chrome浏览器的扩展程序，可在每个新标签上显示比特币的当前价格。"
+  }
+}
