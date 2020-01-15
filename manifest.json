@@ -28,8 +28,7 @@
   "manifest_version": 2,
 
   "permissions": [
-    "contextMenus","tabs",
-    "background", "storage", "notifications", "alarms",
+    "contextMenus","tabs", "storage", "alarms",
     "https://api.coinbase.com/v2/"
   ]
 }
