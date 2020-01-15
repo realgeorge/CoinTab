@@ -90,7 +90,7 @@ const API_HISTORY = 'historic?period=';
 const API_SPOT = 'spot';
 const COIN_OPTIONS = [
 'BTC',
-'BCH',
+'DASH',
 'ETH',
 'LTC'];
 
